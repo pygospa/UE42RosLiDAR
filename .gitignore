@@ -50,6 +50,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -70,6 +71,23 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Linux Files
+.idea
+.kde4
+.vscode
+CMakeLists.txt
+Content
+Makefile
+*.code-workspace
+*.kdev4
+*.pro
+*.workspace
+*CodeCompletionFolders.txt
+*CodeLitePreProcessor.txt
+*.pri
