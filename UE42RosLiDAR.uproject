@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1BEBC123-1204-0E06-000A-03612B1E3790}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE42RosLiDAR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

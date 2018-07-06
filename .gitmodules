@@ -1,0 +1,3 @@
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = git@github.com:pygospa/UROSBridge.git
